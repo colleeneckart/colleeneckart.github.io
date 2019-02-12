@@ -12,7 +12,7 @@ const Portfolio = function() {
 				weight: 14
 			}, {
 				text: "UX/UI Design",
-				weight: 5
+				weight: 5.5
 			}, {
 				text: "node.js (raw - no framework)",
 				weight: 7
