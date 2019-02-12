@@ -11,8 +11,8 @@ const Portfolio = function() {
 				text: "Python",
 				weight: 14
 			}, {
-				text: " ",
-				weight: 3
+				text: "UX/UI Design",
+				weight: 5
 			}, {
 				text: "node.js (raw - no framework)",
 				weight: 7
@@ -28,6 +28,9 @@ const Portfolio = function() {
 			}, {
 				text: "Product Management",
 				weight: 7
+			}, {
+				text: "AWS",
+				weight: 11
 			}
 		];
 		return words;
